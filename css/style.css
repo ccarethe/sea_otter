@@ -103,13 +103,13 @@ button {
     margin-top: 10px;
 }
 
-button:focus {
+button:hover, button:focus {
     background-color: #1C0038;
     color: #fff;
     font-weight: bold;
 }
 
-button.correct:focus {
+button.correct:hover, button.correct:focus {
     background-color: #00601a;
 }
 
