@@ -109,6 +109,10 @@ button:focus {
     font-weight: bold;
 }
 
+button.correct:focus {
+    background-color: #00601a;
+}
+
 footer {
     border-top: 2px solid #78618f;
     margin: 50px 25px 0 25px;
